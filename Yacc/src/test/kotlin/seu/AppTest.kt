@@ -1,0 +1,3 @@
+package seu
+
+class AppTest
